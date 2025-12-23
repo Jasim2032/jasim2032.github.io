@@ -1,0 +1,26 @@
+/*Name: Muhammad Jasim ID: 74407 */
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+
+nav.theme-dark, nav.theme-dark ul.links-wrapper.active { background-color: #5A0E24 }
+
+header.theme-dark   { background-color: #5A0E24 }
+
+header.theme-dark  h1 { color: var(--rose-400); }
+
+section.theme-dark   { background-color: #76153C }
+
+footer.theme-dark   { background-color: #5A0E24 }
+
+
+
+header .col-text h2, .col-1 > h3 { line-height: 1.8 }
